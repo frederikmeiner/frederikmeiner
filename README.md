@@ -25,7 +25,7 @@
 
 <h3 align="center">⚡ Fun facts & stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederikmeiner&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-streak-stats.demolab.com?user=frederikmeiner&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
