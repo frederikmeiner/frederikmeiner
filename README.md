@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, det kalder mig Frederik </h1>
+<h1 align="center"> Hey, de kalder mig Frederik </h1>
 <h3 align="center" style="color: #61dafb;"> Frontend-udvikler | React-entusiast </h3>
 
 
