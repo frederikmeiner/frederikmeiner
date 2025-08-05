@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/din-bruger">
-    <img src="https://github-readme-stats.vercel.app/api?username=din-bruger&show_icons=true&theme=radical" alt="Frede's GitHub Stats" />
+  <a href="https://github.com/frederikmeiner">
+    <img src="https://github-readme-stats.vercel.app/api?username=frederikmeiner&show_icons=true&theme=radical" alt="Frede's GitHub Stats" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <h3 align="center">⚡ Fun facts & stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=din-bruger&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederikmeiner&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
